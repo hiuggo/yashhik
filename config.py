@@ -1,8 +1,5 @@
-login = "YANDEX_LOGIN"
-password = "YANDEX_PASSWORD"
-telegram_bot_token = "TG_BOT_TOKEN"
+login = "andrewpoletaew"
+password = "Stars2013"
+telegram_bot_token = "1973724230:AAEWs4YKIRQu4g_6rdU75bnoGWoIgqb0tvQ"
 
-# To disable proxy: proxy = None
-proxy = { 
-    'proxy_url': 'http://host:port',
-}
+proxy = None
